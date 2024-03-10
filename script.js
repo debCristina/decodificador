@@ -26,9 +26,6 @@ function checkTextArea() {
 }
 
 function btnEncriptar() {
-    // if (textAreaValidate()) {
-    //     return;
-    // }
     const textoEncriptado = criptografar(textArea.value);
     mensagem.value = textoEncriptado;
     checkTextArea();
