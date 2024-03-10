@@ -1,7 +1,5 @@
 # Decodificador de texto
-Este é um projeto de decodificador de texto desenvolvido como parte de um curso na Alura. Foi um desafio emocionante desenvolver a lógica por trás das funções de criptografar e descriptografar, e serviu como uma oportunidade para solidificar alguns conceitos fundamentais.
-
-## Tecnologias utilizadas
+Este é um decodificador de texto desenvolvido como desafio nos cursos da Alura, onde pude colocar em prática conceitos importantes apprendidos e consolidar minha lógica de programação utilizando JavaScript.
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
