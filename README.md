@@ -1,5 +1,5 @@
 # Decodificador de texto
-Este é um decodificador de texto desenvolvido como desafio nos cursos da Alura, onde pude colocar em prática conceitos importantes apprendidos e consolidar minha lógica de programação utilizando JavaScript.
+Este é um decodificador de texto que desenvolvi como desafio dos cursos da Alura, onde pude colocar em prática conceitos importantes apprendidos e consolidar minha lógica de programação utilizando JavaScript.
 
 ## Tecnologias
 <div>
